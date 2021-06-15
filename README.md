@@ -5,6 +5,8 @@ Some features of this project:
 * View a list of Meetups
 * Create meetup
 
+You can see the site here: [https://mern-meetups.vercel.app/](https://mern-meetups.vercel.app/)
+
 Source: [Academind](https://www.youtube.com/watch?v=MFuwkrseXVE&t=813s)
 
 
