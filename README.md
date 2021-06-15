@@ -1,3 +1,13 @@
+# Meetups
+This project was built using MERN(MongoDB, Express, React, Node.js).
+
+Some features of this project:
+* View a list of Meetups
+* Create meetup
+
+Source: [Academind](https://www.youtube.com/watch?v=MFuwkrseXVE&t=813s)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
